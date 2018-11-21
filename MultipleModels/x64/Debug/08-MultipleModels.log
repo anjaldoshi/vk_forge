@@ -1,0 +1,30 @@
+﻿  RenderSystem.cpp
+  Texture.cpp
+  VkApp.cpp
+d:\course_docs\nick_vulkan\uwb-vk\08-multiplemodels\vkapp.cpp(96): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\course_docs\nick_vulkan\uwb-vk\08-multiplemodels\vkapp.cpp(99): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\course_docs\nick_vulkan\uwb-vk\08-multiplemodels\vkapp.cpp(105): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\course_docs\nick_vulkan\uwb-vk\08-multiplemodels\vkapp.cpp(108): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\course_docs\nick_vulkan\uwb-vk\08-multiplemodels\vkapp.cpp(111): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\course_docs\nick_vulkan\uwb-vk\08-multiplemodels\vkapp.cpp(114): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\course_docs\nick_vulkan\uwb-vk\08-multiplemodels\vkapp.cpp(118): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\course_docs\nick_vulkan\uwb-vk\08-multiplemodels\vkapp.cpp(122): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  08-MultipleModels.vcxproj -> D:\Course_Docs\nick_vulkan\uwb-vk\x64\Debug\08-MultipleModels.exe

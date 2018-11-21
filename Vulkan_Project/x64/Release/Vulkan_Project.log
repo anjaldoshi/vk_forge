@@ -1,0 +1,31 @@
+﻿  main.cpp
+d:\course_docs\capstone\repos\vulkan_project\vulkan_project\main.cpp(247): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\course_docs\capstone\repos\vulkan_project\vulkan_project\main.cpp(250): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\course_docs\capstone\repos\vulkan_project\vulkan_project\main.cpp(253): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\course_docs\capstone\repos\vulkan_project\vulkan_project\main.cpp(256): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+d:\course_docs\capstone\repos\vulkan_project\vulkan_project\main.cpp(259): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\course_docs\capstone\repos\vulkan_project\vulkan_project\main.cpp(262): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\course_docs\capstone\repos\vulkan_project\vulkan_project\main.cpp(278): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\course_docs\capstone\repos\vulkan_project\vulkan_project\main.cpp(281): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  3 of 3407 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Vulkan_Project.vcxproj -> D:\Course_Docs\Capstone\Repos\Vulkan_Project\x64\Release\Vulkan_Project.exe
